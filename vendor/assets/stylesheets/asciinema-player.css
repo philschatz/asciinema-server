@@ -142,7 +142,7 @@
   cursor: text;
   border-width: 0.5em;
   font-family: Consolas, Menlo, 'Bitstream Vera Sans Mono', monospace, 'Powerline Symbols';
-  line-height: 1.3333333333em;
+  line-height: 1.6666666666em;
 }
 .asciinema-terminal .line {
   letter-spacing: normal;
@@ -152,7 +152,7 @@
 .asciinema-terminal .line span {
   padding: 0;
   display: inline-block;
-  height: 1.3333333333em;
+  height: 1em;
 }
 .asciinema-terminal .line {
   display: block;
